@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DTS_praktek2</string>
+    <string name="btn_ok">OK</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
 </resources>
